@@ -1,0 +1,25 @@
+{
+	"name": "concierge-template",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"preview": "svelte-kit preview"
+	},
+	"devDependencies": {
+		"@sveltejs/kit": "next",
+		"@tailwindcss/typography": "^0.4.1",
+		"autoprefixer": "^10.3.6",
+		"cssnano": "^5.0.8",
+		"daisyui": "^1.14.2",
+		"graphql": "^15.6.0",
+		"graphql-request": "^3.5.0",
+		"postcss": "^8.3.8",
+		"postcss-load-config": "^3.1.0",
+		"svelte": "^3.42.6",
+		"svelte-preprocess": "^4.9.5",
+		"tailwindcss": "^2.2.16",
+		"mdsvex": "^0.9.8"
+	},
+	"type": "module"
+}

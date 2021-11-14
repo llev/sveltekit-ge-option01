@@ -1,0 +1,2 @@
+<h1 class="text-4xl">post</h1>
+<article class="prose">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est nulla asperiores quas animi ullam hic sequi, impedit error facere, maxime, excepturi consequuntur sint delectus sed nihil architecto quia. Officiis, dolores.</article>
